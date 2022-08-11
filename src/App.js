@@ -1,13 +1,10 @@
 import './App.css';
+import Header from './header/Header';
 
 function App() {
   return (
     <div className="App">
-      <div className='Header'>
-        Dashboard
-        Desafio Técnico Frontend
-        <button>Filtrar</button>
-      </div>
+      <Header/>
       <div className='Graficos'>
         <div className='GraficoBarras'>
           <div>Barras</div>
