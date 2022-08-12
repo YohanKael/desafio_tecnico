@@ -1,8 +1,10 @@
 .Header {
+    padding: 20px 0px 20px 0px;
     margin-inline: 20px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
   }
   
   .HeaderTitle {
@@ -13,7 +15,7 @@
   }
   
   .HeaderTitle h1 {
-    font-size: x-large;
+    font-size: xx-large;
     font-weight: 700;
     color: #5d405c;
     align-self: flex-start;
@@ -21,9 +23,10 @@
   }
   
   .HeaderTitle h2 {
-    font-size: small;
+    font-size: medium;
+    font-weight: 500;
     align-self: flex-start;
-    color: #bcbcbc;
+    color: #828282;
   }
   
   .HeaderButton {
