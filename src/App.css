@@ -1,6 +1,13 @@
 .App {
-  margin-top: 5%;
   width: 100%;
+  height: 100%;
   text-align: center;
   background-color: #f6f6f6;
+  display: flex;
+  flex-direction: column;
+}
+
+.Padding {
+  height: 10%;
+  background-color: #cec6ce;
 }

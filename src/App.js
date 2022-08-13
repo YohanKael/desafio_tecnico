@@ -1,18 +1,13 @@
 import './App.css';
 import Header from './header/Header';
+import ChartList from './charts/ChartList';
 
 function App() {
   return (
     <div className="App">
+      <div className="Padding"/>
       <Header/>
-      <div className='Graficos'>
-        <div className='GraficoBarras'>
-          <div>Barras</div>
-        </div>
-        <div className='GraficoScatter'>
-          <div>Scatter</div>
-        </div>
-      </div>
+      <ChartList/>
     </div>
   );
 }
