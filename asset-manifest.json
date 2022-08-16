@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafio_tecnico/static/css/main.6f588fbc.css",
+    "main.js": "/desafio_tecnico/static/js/main.2ba74c56.js",
+    "index.html": "/desafio_tecnico/index.html",
+    "main.6f588fbc.css.map": "/desafio_tecnico/static/css/main.6f588fbc.css.map",
+    "main.2ba74c56.js.map": "/desafio_tecnico/static/js/main.2ba74c56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f588fbc.css",
+    "static/js/main.2ba74c56.js"
+  ]
+}
